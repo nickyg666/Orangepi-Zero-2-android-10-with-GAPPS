@@ -1,8 +1,8 @@
 # Orangepi-Zero-2-android-10-with-GAPPS
 
-##Start with credits!
+## Start with credits!
 
-###Big thanks and shoutouts to:
+### Big thanks and shoutouts to:
 
 Orangepi-xunlong, for android source and making the board!
 
