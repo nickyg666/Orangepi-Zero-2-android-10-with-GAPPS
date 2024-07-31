@@ -28,9 +28,9 @@ I saw a lot of folks begging for the orangepi zero 2 to have gapps in my journey
 I should share my creation. Although it is a cobbling together of the work of others, I do give credit
 where credit is due. 
 
-##This is a ready-to-flash image that PhoenixCard is not needed for.
+## This is a ready-to-flash image that PhoenixCard is not needed for.
 
-##A few tips for that software should you
+## A few tips for that software should you
 choose to use it:
 
 Always use latest version, only one I can find is russian PhoenixCard 4.2.8
