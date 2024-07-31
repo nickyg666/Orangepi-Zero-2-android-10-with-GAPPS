@@ -1,16 +1,27 @@
 # Orangepi-Zero-2-android-10-with-GAPPS
 
 #Start with credits!
+
 #Big thanks and shoutouts to:
+
 Orangepi-xunlong, for android source and making the board!
+
 huskydg, for magic_flash
+
 Magisk team / wacko1805 for magiskgapps
+
 Nanolx, for nanodroid patcher
+
 thermatk, for fakegapps
+
 termux team for termux 
+
 google, for ADB
+
 the mindTheGapps team, for making an ARM version of GAPPS for android 10, or else this would not be possible
+
 Paul Rubin, David MacKenzie, and Stuart Kemp, for making DD way back when
+
 lsposed team for lsp
 
 I saw a lot of folks begging for the orangepi zero 2 to have gapps in my journey, and thought:
