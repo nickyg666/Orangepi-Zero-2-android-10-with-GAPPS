@@ -1,5 +1,5 @@
 # Orangepi-Zero-2-android-10-with-GAPPS
-
+# You will need a 128GB card to restore to!
 ## Start with credits!
 
 ### Big thanks and shoutouts to:
@@ -29,7 +29,7 @@ I should share my creation. Although it is a cobbling together of the work of ot
 where credit is due. 
 
 ## This is a ready-to-flash image that PhoenixCard is not needed for.
-
+# You will need a 128GB card to restore to!
 ## A few tips for that software should you choose to use it:
 
 Always use latest version, only one I can find is russian PhoenixCard 4.2.8
@@ -44,4 +44,4 @@ You can do
 to restore it or probably use Etcher or anything else. You only need PhoenixCard for the initial setup, not for my image.
 this is a dd friendly image, etcher or any other solution should work.
 I used 7z on the gzipped img to be more bandwidth friendly.
-#You will need a 128GB card to restore to (They are pretty cheap on amazon, I got a SiliconPower 2-pack for like 25$)
+# You will need a 128GB card to restore to (They are pretty cheap on amazon, I got a SiliconPower 2-pack for like 25$)
