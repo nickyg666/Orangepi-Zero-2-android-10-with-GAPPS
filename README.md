@@ -1,5 +1,5 @@
 # Orangepi-Zero-2-android-10-with-GAPPS
-# You will need a 128GB card to restore to!
+# You will need a 128GB card to restore to! Github does not like files over 2gb, so it is splitted. comes out to 9.4gb extracted. should be able write with etcher. I prefer DD, but it is up to personal taste. If your choice does not support img.gz you can gunzip the img.gz but be warned, it is SD sized (128GB)
 ## Start with credits!
 
 ### Big thanks and shoutouts to:
