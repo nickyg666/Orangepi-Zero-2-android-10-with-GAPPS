@@ -8,17 +8,17 @@ Orangepi-xunlong, for android source and making the board!
 
 huskydg, for magic_flash
 
-Magisk team / wacko1805 for magiskgapps
+Magisk team
 
 Nanolx, for nanodroid patcher
-
-thermatk, for fakegapps
 
 termux team for termux 
 
 google, for ADB
 
 the mindTheGapps team, for making an ARM version of GAPPS for android 10, or else this would not be possible
+
+LiteGapps Team
 
 Paul Rubin, David MacKenzie, and Stuart Kemp, for making DD way back when
 
@@ -30,17 +30,18 @@ where credit is due.
 
 ## This is a ready-to-flash image that PhoenixCard is not needed for.
 
-## A few tips for that software should you
-choose to use it:
+## A few tips for that software should you choose to use it:
 
 Always use latest version, only one I can find is russian PhoenixCard 4.2.8
 
-If you are getting errors writing the official image, do try another reader. Mine would not work with internal microsd reader but fine with usb 2.0. If you break your android, you can restore and flash and all your apps still will be there miraculously.
+If you are getting errors writing the official image, do try another reader. Mine would not work with internal microsd reader but fine with usb 2.0. If you break your android, you can restore and flash and all your apps still will be there miraculously. for some very strange reason you can wipe and rewipe the drive, put other data on it, and when you use phoenixcard again it will bring all your apps, settings, etc back. you have to reset in android or recovery to do a wipe.
 
 
-I did install an incompatible version of gapps for regular android 10, and just installed the TV version of play store over it. You can do 
+You can do 
 
 `dd if=opiandroidwGAPPS.img.gz of=dev/mmcblk0 status=progress`
 
 to restore it or probably use Etcher or anything else. You only need PhoenixCard for the initial setup, not for my image.
-dd friendly image, etcher should work too
+this is a dd friendly image, etcher or any other solution should work.
+I used 7z on the gzipped img to be more bandwidth friendly.
+#You will need a 128GB card to restore to (They are pretty cheap on amazon, I got a SiliconPower 2-pack for like 25$)
